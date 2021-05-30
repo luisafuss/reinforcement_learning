@@ -10,10 +10,10 @@ Hausarbeit für das Fach "Wissensbasierte Systeme" zum Thema Reinforcement Learn
     1. Modell basiert
         1.  Online vs. Batch
     2. Modell frei
-        0. Passives lernen vs. aktives lernen
-        1. Adaptive dynamic programming (ADP) 
-        2. Temporal-difference (TD)
-        3. Q-learning
-        4. Monte-Carlo-Methode
+        1. Passives lernen vs. aktives lernen
+        2. Adaptive dynamic programming (ADP) 
+        3. Temporal-difference (TD)
+        4. Q-learning
+        5. Monte-Carlo-Methode
 5. Implementierung
 6. Bewertung/Fazit
